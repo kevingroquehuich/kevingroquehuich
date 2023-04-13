@@ -1,4 +1,16 @@
-### Hi there 👋
+
+<div align="center">
+<h1 align="center">Hola, soy Keving Roque👋</h1>
+</div>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/kevingroquehuich">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevingroquehuich&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevingroquehuich&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **kevingroquehuich/kevingroquehuich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
